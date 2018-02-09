@@ -8,5 +8,4 @@ Homepage: http://www.elmerfem.org
 Package: elmerfem-csc
 Architecture: any
 Depends: libmumps-4.10.0, libhypre-2.8.0b, openmpi-bin, libblas3, libparmetis4.0, libmetis5
-Description: Elmer finite element modeling monolithic suite
- Contains ElmerGUI
+Description: Elmer finite element modeling monolithic suite, Does not contain ElmerGUI
