@@ -1,3 +1,11 @@
+elmerfem-csc (8.4-0ppa0) bionic; urgency=low
+  
+  * Increase version to 8.4
+  * Release announcement at http://www.elmerfem.org/forum/viewtopic.php?f=11&t=6310
+  * Full release notes at https://github.com/ElmerCSC/elmerfem/blob/release-8.4/ReleaseNotes/release_8.4.txt
+
+ -- Juhani Kataja <juhmat@gmail.com>  Thu, 20 Dec 2018 09:40:00 +0200
+
 elmerfem-csc (8.3-0ppa0) xenial; urgency=low
   
   * increase version to 8.3
